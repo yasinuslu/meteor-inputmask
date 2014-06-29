@@ -1,9 +1,9 @@
 {
   "name": "inputmask",
-  "description": "jQuery inputmask",
+  "description": "Provides jQuery inputmask plugin for meteor",
   "homepage": "https://github.com/yasinuslu/meteor-inputmask",
   "author": "Yasin Uslu (http://nepjua.org)",
-  "version": "1.0.0-1",
+  "version": "1.0.0-2",
   "git": "https://github.com/yasinuslu/meteor-inputmask.git",
   "packages": {}
 }
