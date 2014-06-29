@@ -3,7 +3,7 @@
   "description": "jQuery inputmask",
   "homepage": "https://github.com/yasinuslu/meteor-inputmask",
   "author": "Yasin Uslu (http://nepjua.org)",
-  "version": "1.0.0",
+  "version": "1.0.0-1",
   "git": "https://github.com/yasinuslu/meteor-inputmask.git",
   "packages": {}
 }
