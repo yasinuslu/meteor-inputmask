@@ -1,0 +1,9 @@
+{
+  "name": "inputmask",
+  "description": "jQuery inputmask",
+  "homepage": "https://github.com/yasinuslu/meteor-inputmask",
+  "author": "Yasin Uslu (http://nepjua.org)",
+  "version": "1.0.0",
+  "git": "https://github.com/yasinuslu/meteor-inputmask.git",
+  "packages": {}
+}
