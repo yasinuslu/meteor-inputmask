@@ -14,5 +14,5 @@ Package.on_use(function(api) {
 
   // Add templates.html and client.js files ONLY on
   // the client
-  api.add_files('lib/jquery.inputmask.bundle.js', 'client');
+  api.add_files('inputmask/dist/jquery.inputmask.bundle.js', 'client');
 });
